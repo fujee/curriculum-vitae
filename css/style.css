@@ -157,13 +157,13 @@ SECTION WRAPS
 
 #headerwrap {
   background-color: #111;
-  background: url(../img/IMG_0324.JPG) no-repeat center top;
+  background: url(../img/File_001.png) no-repeat center top;
   margin-top: 60px;
   padding-top: 140px;
   text-align: center;
   background-attachment: relative;
   background-position: center center;
-  min-height: 450px;
+  min-height: 500px;
   width: 100%;
   -webkit-background-size: 100%;
   -moz-background-size: 100%;
@@ -177,12 +177,15 @@ SECTION WRAPS
 
 #headerwrap h1 {
   font-size: 80px;
+  font-weight: bolder;
   color: white;
+  text-shadow: 2px 2px rgba(0, 0, 0, 0.473);
 }
 
 #headerwrap h3 {
   font-size: 20px;
   color: white;
+  text-shadow: 1px 1px rgb(87, 15, 15);
 }
 
 /* Intnro Wrap */
